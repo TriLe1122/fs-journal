@@ -45,7 +45,8 @@ selector,property,value
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+html <b> or <strong>
+css font-weight:bold
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -69,5 +70,5 @@ sets the flexible length on flexible items
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-box-sizing:
+box-sizing, margins,paddings, width and height
 ```
